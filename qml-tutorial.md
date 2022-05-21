@@ -16,7 +16,6 @@ examples/quick/tutorials/helloworld
 2. Компоненты QML
 3. Состояния и переходы
 
-<hr/>
 [Глава 1 - Базовые Типы](https://github.com/SlimRG/QML-Tutorial/edit/main/qml-tutorial1.md "Глава 1 - Базовые Типы") -->
 
 <hr/>
