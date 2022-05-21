@@ -17,4 +17,7 @@ examples/quick/tutorials/helloworld
 3. Состояния и переходы
 
 <hr/>
+[Глава 1 - Базовые Типы](https://github.com/SlimRG/QML-Tutorial/edit/main/qml-tutorial1.md "Глава 1 - Базовые Типы") -->
+
+<hr/>
 © 2022 The Qt Company Ltd. Documentation contributions included herein are the copyrights of their respective owners. The documentation provided herein is licensed under the terms of the GNU Free Documentation License version 1.3 (https://www.gnu.org/licenses/fdl.html) as published by the Free Software Foundation. Qt and respective logos are trademarks of The Qt Company Ltd. in Finland and/or other countries worldwide. All other trademarks are property of their respective owners.
