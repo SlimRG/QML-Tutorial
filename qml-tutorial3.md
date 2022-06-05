@@ -98,9 +98,9 @@ transitions: Transition {
 
 Дополнительные сведения о состояниях и переходах см. в разделе [Состояния QtQuick](https://doc.qt.io/qt-6/qtquick-statesanimations-states.html), а также [Пример реализации состояний и переходов](https://doc.qt.io/qt-6/qtquick-animation-example.html#states).
 
-<-- [Базовые Типы](https://github.com/SlimRG/QML-Tutorial/edit/main/qml-tutorial1.md "Базовые Типы")  
+<-- [Компоненты QML](https://github.com/SlimRG/QML-Tutorial/blob/main/qml-tutorial2.md "Компоненты QML")  
 
-[Состояния и переходы](https://github.com/SlimRG/QML-Tutorial/blob/main/ "Состояния и переходы") -->
+[Главная страница](https://github.com/SlimRG/QML-Tutorial/blob/main/qml-tutorial.md "Главная страница") -->
 
 <hr/>
 © 2022 The Qt Company Ltd. Documentation contributions included herein are the copyrights of their respective owners. The documentation provided herein is licensed under the terms of the GNU Free Documentation License version 1.3 (https://www.gnu.org/licenses/fdl.html) as published by the Free Software Foundation. Qt and respective logos are trademarks of The Qt Company Ltd. in Finland and/or other countries worldwide. All other trademarks are property of their respective owners.
