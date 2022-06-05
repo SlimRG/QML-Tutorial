@@ -62,7 +62,6 @@ Rectangle {
 ```
 
 ### Разбор по шагам
-#### Cell компонент
 
 ```QML
 states: State {
