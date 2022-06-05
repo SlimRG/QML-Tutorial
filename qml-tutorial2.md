@@ -112,7 +112,7 @@ Rectangle {
 
 Когда срабатывает сигнал щелчка мыши (*clicked signal*) по ячейке, установится цвет текста равным цвету ячейки, переданному в качестве параметра *cellColor*.  Можно реагировать на любой сигнал нашему компоненту с помощью свойства с именем *'onSignalName'* (см. [Атрибуты сигнала](https://doc.qt.io/qt-6/qtqml-syntax-objectattributes.html#signal-attributes)).
 
-<-- [Базовые Типы](https://github.com/SlimRG/QML-Tutorial/edit/main/qml-tutorial1.md "Базовые Типы")  
+<-- [Базовые Типы](https://github.com/SlimRG/QML-Tutorial/blob/main/qml-tutorial1.md "Базовые Типы")  
 
 [Состояния и переходы](https://github.com/SlimRG/QML-Tutorial/blob/main/ "Состояния и переходы") -->
 
