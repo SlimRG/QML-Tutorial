@@ -13,7 +13,7 @@ examples/quick/tutorials/helloworld
 
 ## Главы руководства:
 1. [Базовые Типы](https://github.com/SlimRG/QML-Tutorial/blob/main/qml-tutorial1.md "Базовые Типы")
-2. Компоненты QML
+2. [Компоненты QML](https://github.com/SlimRG/QML-Tutorial/blob/main/qml-tutorial2.md "[Компоненты QML")
 3. Состояния и переходы
 
 <hr/>
